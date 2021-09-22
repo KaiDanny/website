@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "PM3UZ2S4SS.com.apple.wwdc",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
