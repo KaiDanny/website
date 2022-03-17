@@ -864,6 +864,10 @@ div.f-career .inside-2 {
         background: url(../images/banner-fkpp.png) top;
         background-size: cover;
     }
+    .section-games .main-banner.bubble {
+        background: url(../images/banner-bubble.png) top;
+        background-size: cover;
+    }     
 @media only screen and (min-width:530px) and (max-width:949px) {
     .section-games .main-banner {
         height: 330px;
@@ -1046,6 +1050,10 @@ div.f-career .inside-2 {
         background: #56d2e6 url(../images/banner-fkpp.png) top;
         background-size: cover;
     }
+    .head-game.bubble {
+        background: #56d2e6 url(../images/banner-bubble.png) top;
+        background-size: cover;
+    }    
     .head-game.about, .head-game.contact {
         background: #000 url(../images/about_head.png) top;
         background-size: cover;
